@@ -16,7 +16,7 @@ export default function App() {
       </Text>
       
       <Pressable style={styles.button} onPress={(e) => alert('test')}>
-        <Text style={styles.text}>Testtfdt</Text>
+        <Text style={styles.text}>Testtfdtds</Text>
       </Pressable>
 
       
